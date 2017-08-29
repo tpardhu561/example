@@ -20,5 +20,4 @@ public class MyClass
 	   System.out.println(hw.printMessage(""));
 	   System.out.println(hw.printMessage("World"));
    }
-		
 }
