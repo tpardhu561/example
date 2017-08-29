@@ -19,7 +19,6 @@ public class MyClass
 	   MyClass hw = new MyClass();
 	   System.out.println(hw.printMessage(""));
 	   System.out.println(hw.printMessage("World"));
-	   
    }
 		
 }
