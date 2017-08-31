@@ -12,12 +12,13 @@ public class MyClass
       {
          return "Hello " + name + "!";
       }
+      //new comment
    }
-//this is a comment
+
    public static void main(String[] args)
    {
-	   MyClass hw = new MyClass();
-	   System.out.println(hw.printMessage(""));
-	   System.out.println(hw.printMessage("World"));
+	   MyClass mc = new MyClass();
+	   System.out.println(mc.printMessage(""));
+	   System.out.println(mc.printMessage("World"));
    }
 }
